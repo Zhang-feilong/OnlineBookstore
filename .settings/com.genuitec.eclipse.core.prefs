@@ -1,0 +1,5 @@
+#Thu Feb 28 15:09:26 CST 2019
+eclipse.preferences.version=1
+validator.Checked=WebRoot/jsps,WebRoot/adminjsps
+validator.Revalidate=true
+validator.Unchecked=
